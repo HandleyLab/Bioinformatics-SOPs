@@ -11,11 +11,12 @@ Presenter(s) are responsible for food for that day. Save you receipts for reimbu
 | 29-June | Basic Git | Scott H. |
 | 6-July | Project Outlines | Everyone |
 | 13-July | [Lab Unix](https://github.com/HandleyLab/Bioinformatics-SOPs/wiki/1.-Unix-Stuff) | Scott H. |
-| 20-July | [Dplyr](https://dplyr.tidyverse.org) | Anne P. / Kathie M. |
-| 27-July | [Statistics](https://github.com/HandleyLab/Bioinformatics-SOPs/wiki/2.-Statistical-analyses-in-R) | Andrew K. |
-| 3-August | Viral Genomics | Ana J. and Binita F. |
-| 10-August | Open Project Time | Everyone (SH out of town) |
-| 17-August | 16S rRNA Analysis - [dada2](https://benjjneb.github.io/dada2/) | Leran W. / Scott H.|
-| 24-August | 16S rRNA Analysis - Basic Workflow | Leran W. / Scott H. |
+| 20-July | Cancelled | Cancelled |
+| 27-July | [Dplyr](https://dplyr.tidyverse.org) | Anne P. / Kathie M. |
+| 3-August | [Statistics](https://github.com/HandleyLab/Bioinformatics-SOPs/wiki/2.-Statistical-analyses-in-R) | Andrew K. |
+| 10-August | Viral Genomics | Ana J. and Binita F. |
+| 17-August | Open Project Time | Everyone (SH out of town) |
+| 24-August | 16S rRNA Analysis - [dada2](https://benjjneb.github.io/dada2/) | Leran W. / Scott H.|
+| 31-August | 16S rRNA Analysis - Basic Workflow | Leran W. / Scott H. |
 
 
