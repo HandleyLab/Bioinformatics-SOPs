@@ -14,9 +14,12 @@ Presenter(s) are responsible for food for that day. Save you receipts for reimbu
 | 20-July | Cancelled | Cancelled |
 | 27-July | [Dplyr](https://github.com/HandleyLab/Bioinformatics-SOPs/wiki/3.-Data-Transformation-in-R-(tidyverse)) | Anne P. / Kathie M. |
 | 3-August | [Statistics](https://github.com/HandleyLab/Bioinformatics-SOPs/wiki/2.-Statistical-analyses-in-R) | Andrew K. |
-| 10-August | Viral Genomics | Ana J. and Binita F. |
-| 17-August | Open Project Time | Everyone (SH out of town) |
-| 24-August | 16S rRNA Analysis - [dada2](https://benjjneb.github.io/dada2/) | Leran W. / Scott H.|
-| 31-August | 16S rRNA Analysis - Basic Workflow | Leran W. / Scott H. |
+| 10-August | Open Project Time | Everyone (SH out of town) |
+| 17-August | 16S rRNA Analysis - [dada2](https://benjjneb.github.io/dada2/) | Leran W. / Scott H.|
+| 24-August | 16S rRNA Analysis - Basic Workflow | Leran W. / Scott H. |
+| 31-August | Viral Genomics | Ana J. and Binita F. |
+
+ 
+
 
 
