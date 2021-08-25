@@ -17,7 +17,8 @@ Presenter(s) are responsible for food for that day. Save you receipts for reimbu
 | 10-August | Open Project Time | Everyone (SH out of town) |
 | 17-August | 16S rRNA Analysis - [dada2](https://benjjneb.github.io/dada2/) | Leran W. / Scott H.|
 | 24-August | 16S rRNA Analysis - Basic Workflow | Leran W. / Scott H. |
-| 31-August | Viral Genomics | Ana J. and Binita F. |
+| 31-August | 16S rRNA Analysis - Continued | Leran W. / Scott H. |
+| TBD | Viral Genomics | Ana J. and Binita F. |
 
  
 
