@@ -18,7 +18,20 @@ Presenter(s) are responsible for food for that day. Save you receipts for reimbu
 | 17-August | 16S rRNA Analysis - [dada2](https://benjjneb.github.io/dada2/) | Leran W. / Scott H.|
 | 24-August | 16S rRNA Analysis - Basic Workflow | Leran W. / Scott H. |
 | 31-August | 16S rRNA Analysis - Continued | Leran W. / Scott H. |
-| TBD | Viral Genomics | Ana J. and Binita F. |
+| 30-September | Viral Genomics | Ana J. and Binita F. |
+| 7-October | Code Review | TBD |
+| 14-October | Code Review | Andrew Kim |
+
+Other potential topics:
+- code reviews ******
+- snakemake ***
+- hecatomb ***
+- demultiplexing ***
+- data management and deposition
+- metagenomics (metaphlan3)
+- metagenomic binning
+- metagenomic assembly (megathit, IDBA-UD, flye)
+- code testing
 
  
 
